@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="API/API.csproj" Id="f95b4156-5119-4b77-812d-0943530a7883" />
+  <Project Path="DAL/DAL.csproj" Id="4a034bb0-78fc-44de-afff-6b4bfb9d5630" />
+</Solution>
